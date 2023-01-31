@@ -1,0 +1,5 @@
+C:\Users\Lenovo\Documents\задачи 19,21,23\obj\Debug\net6.0\задачи 19,21,23.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\задачи 19,21,23\obj\Debug\net6.0\задачи 19,21,23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Documents\задачи 19,21,23\obj\Debug\net6.0\задачи 19,21,23.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\задачи 19,21,23\obj\Debug\net6.0\задачи 19,21,23.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\задачи 19,21,23\obj\Debug\net6.0\задачи 19,21,23.csproj.CoreCompileInputs.cache
